@@ -1,0 +1,2 @@
+# Membuat_AI
+mencoba
