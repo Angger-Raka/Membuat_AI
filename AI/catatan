@@ -1,0 +1,7 @@
+download package
+pyAudio
+speech_recognition as sr
+pyttsx3
+pywhatkit
+datetime
+wikipedia
