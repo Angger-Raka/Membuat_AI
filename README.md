@@ -1,2 +1,0 @@
-# Membuat_AI
-mencoba
