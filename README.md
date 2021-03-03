@@ -10,5 +10,5 @@ pip install pywhatkit<br>
 pip install datetime<br>
 pip install wikipedia<br>
 
-untuk pyAudio jika trouble ya cari solusi di yt lah ;p
+untuk <strong>pyAudio</strong> jika trouble ya cari solusi di yt lah ;p<br>
 tenang walaupun membinggungkan tentang pyAudio tetap lanjut aja 
